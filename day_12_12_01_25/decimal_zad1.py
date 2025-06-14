@@ -1,4 +1,3 @@
-# # liczby float
 # # liczby zmiennoprzecinkowe
 # print(0.2 + 0.8)  # float 1.0
 # print(0.2 + 0.7)  # 0.8999999999999999
